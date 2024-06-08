@@ -68,11 +68,12 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-The topics discussed in the labs effectively prepared me to complete the assignment, particularly in understanding the HTML skeleton and CSS padding/margin. However, I felt less prepared when it came to implementing Flexbox and media queries.
+The laboratory sessions were quite beneficial, especially in enhancing my grasp of the basic HTML structure and the nuances of CSS padding and margins. These foundational skills were directly applicable to the assignments. However, I encountered more challenges when it came to applying Flexbox and media queries. Although these topics proved to be stumbling blocks initially, I genuinely enjoyed the process of troubleshooting and learning through these difficulties. The satisfaction of finally understanding how to effectively use Flexbox and media queries, after struggling with them, was particularly rewarding. This journey not only bolstered my technical skills but also improved my problem-solving abilities, which are crucial for any budding web developer.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
 
-  If I had more time, I would have approached the project differently in several ways. Firstly, I would use a Minimum Viable Product(MVP) manner of going back and forth with html and css rather then completing html alone and then moving onto css. I would also add a GIF for the banner to make it more dynamic and engaging. Secondly, I would incorporate an interactive GPS/Google Maps section for the locations provided on the website, enhancing the user experience with real-time navigation features. 
+If I had more time to refine the project, I would have adopted a Minimum Viable Product (MVP) strategy, alternating between HTML and CSS during the development process to streamline design and troubleshooting. I would have added a dynamic GIF to the banner to make the homepage more visually engaging and capture users' attention immediately. Additionally, integrating an interactive GPS or Google Maps feature for location listings on the site would enhance user experience by providing practical, real-time navigation tools. This approach would not only improve functionality but also bridge the gap between the digital content and physical locations. Such improvements would likely increase user engagement and satisfaction, especially for mobile users needing seamless browsing to navigation transitions.
+
   
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
