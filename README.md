@@ -60,6 +60,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
+https://www.loom.com/share/745fefdf336e41cf9481d09faf39701a?sid=6a089b15-ad8b-4b7d-9f03-8af8154263aa
 
 `<div style="position: relative; padding-bottom: 54.6875%; height: 0;"><iframe src="https://www.loom.com/embed/745fefdf336e41cf9481d09faf39701a?sid=597cdc0a-49ee-4559-ae48-f7e3e59f97e3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
 
@@ -75,8 +76,7 @@ The topics discussed in the labs effectively prepared me to complete the assignm
   
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Setting up the food guide, navigation bar, and banner went well. However, the responsive design didn't adapt as aesthetically as planned, requiring more debugging. I observed a peer's effective use of flexbox for better responsiveness, which I would like to try next time.
-
+Setting up the food guide, navigation bar, and banner went well, and I was pleased with how smoothly these elements were integrated into the project. However, I faced challenges with the responsive design. I observed a peer's effective use of flexbox to enhance responsiveness, which allowed their layout to adapt seamlessly to different screen sizes. Next time, I plan to incorporate similar flexbox techniques to improve the adaptability and aesthetics of my design across various devices. Additionally, I aim to refine my CSS structure to ensure a more streamlined and visually appealing responsive experience.
 
 ### Open-source libraries used
 (https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1717805699582!5m2!1sen!2sus)
