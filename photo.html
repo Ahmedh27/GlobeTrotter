@@ -9,22 +9,18 @@
       <h1>New York City</h1>
     </header>
     <nav>
+      <div class="hamburger" onclick="toggleMenu()">☰</div>
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="attractions.html">Top Attractions</a></li>
         <li><a href="food.html">Food Guide</a></li>
         <li><a href="photo.html" class="active">Photo Gallery</a></li>
-        <li><a href ="map.html">Interactive Map</a></li>
+        <li><a href="map.html">Interactive Map</a></li>
       </ul>
     </nav>
     <main>
       <h2>Photo Gallery</h2>
-      <!-- <p>
-        Immerse yourself in the vibrant spirit of New York City through our
-        photo gallery, showcasing its stunning scenery and diverse cultural
-        tapestry.
-      </p> -->
-      <section>
+      <div>
         <figure>
           <img src="assets/nyc12.jpeg" alt="Broadway and Theater District" />
           <figcaption>
@@ -78,7 +74,12 @@
             traditional Chinese culture, including music, dance, and food.
           </figcaption>
         </figure>
-      </section>
+      </div>
     </main>
   </body>
+  <script>
+    function toggleMenu() {
+      document.querySelector("nav ul").classList.toggle("active");
+    }
+  </script>
 </html>
