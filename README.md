@@ -60,9 +60,14 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
-`https://www.loom.com/share/745fefdf336e41cf9481d09faf39701a?sid=6a089b15-ad8b-4b7d-9f03-8af8154263aa`
-
-`<div style="position: relative; padding-bottom: 54.6875%; height: 0;"><iframe src="https://www.loom.com/embed/745fefdf336e41cf9481d09faf39701a?sid=597cdc0a-49ee-4559-ae48-f7e3e59f97e3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
+`<div>
+    <a href="https://www.loom.com/share/745fefdf336e41cf9481d09faf39701a">
+      <p>Library | Loom - 7 June 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/745fefdf336e41cf9481d09faf39701a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/745fefdf336e41cf9481d09faf39701a-with-play.gif">
+    </a>
+  </div>`
 
 ### Reflection
 
